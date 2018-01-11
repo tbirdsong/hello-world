@@ -1,3 +1,2 @@
 # hello-world
-Tutorial
-This is my first GitHub branch
+This is my first GitHub branch.
